@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently **Pursuing MCA From BIT,Durg** 
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Bootstrap**
 
 
 - 💬 Ask me about **anything😀**
