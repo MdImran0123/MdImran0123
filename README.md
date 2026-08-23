@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently **doing a job at Vyakar Technologies Pvt Ltd** 
 
-- 🌱 I’m currently learning **Spring Boot, Microservice**
+- 🌱 I’m currently learning **Spring Boot, Microservices**
 
 
 - 💬 Ask me about **anything😀**
