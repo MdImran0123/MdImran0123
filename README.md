@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mohammad Imran</h1>
-<h3 align="center">I am a Professional Java Developer with 2+ years of Experience.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
+<h3 align="center">I am a Professional Java Developer with 4+ years of Experience.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
 <p align="center"> 
   Visitor count<br>
@@ -10,9 +10,9 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; ***About me:***
 
-- 🔭 I’m currently **doing a Job in Arosys Technology Pvt Ltd** 
+- 🔭 I’m currently **doing a job at Vyakar Technologies Pvt Ltd** 
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Spring Boot, Microservice**
 
 
 - 💬 Ask me about **anything😀**
